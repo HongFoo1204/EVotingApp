@@ -1,0 +1,27 @@
+
+[
+java:S1659"EDeclare "btStatus" and all following declarations on a separate line.(ÔÏ–Þ
+k
+java:S1450"URemove the "btEdit" field and declare it as a local variable in the relevant methods.(ÔÏ–Þ
+m
+java:S1450"WRemove the "btLogout" field and declare it as a local variable in the relevant methods.(ÔÏ–Þ
+m
+java:S1450"WRemove the "btReport" field and declare it as a local variable in the relevant methods.(ÔÏ–Þ
+m
+java:S1450"WRemove the "btResult" field and declare it as a local variable in the relevant methods.(ÔÏ–Þ
+m
+java:S1450"WRemove the "btStatus" field and declare it as a local variable in the relevant methods.(ÔÏ–Þ
+m
+java:S1450"WRemove the "btVerify" field and declare it as a local variable in the relevant methods.(ÔÏ–Þ
+>
+java:S1604"(Make this anonymous inner class a lambda(¢…§„
+>
+java:S1604!"(Make this anonymous inner class a lambda(Ê„à­
+>
+java:S1604("(Make this anonymous inner class a lambda(ÞŽÍ¬
+C
+java:S1604/"(Make this anonymous inner class a lambda(‹ËÆ³ùÿÿÿÿ
+C
+java:S16046"(Make this anonymous inner class a lambda(Íàß¯úÿÿÿÿ
+>
+java:S1604>"(Make this anonymous inner class a lambda(‘â±â

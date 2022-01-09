@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839684402142",
+    "firebase_url": "https://e-voting-app-e08ed-default-rtdb.firebaseio.com",
+    "project_id": "e-voting-app-e08ed",
+    "storage_bucket": "e-voting-app-e08ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839684402142:android:25e65093cf5af7647acb4f",
+        "android_client_info": {
+          "package_name": "my.edu.utar.e_votingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839684402142-sba1k9tpdpd0i9eq374tjou1vimjejss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.utar.e_votingapp",
+            "certificate_hash": "ca9cf8deacb5faad0e1d5f295d0a3cc2e686903f"
+          }
+        },
+        {
+          "client_id": "839684402142-ekp2m520q0vakeuacsea9bcrdpjtfh8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8JtQV9N9vehfb3lERUTX7XAjHa8tqz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839684402142-ekp2m520q0vakeuacsea9bcrdpjtfh8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

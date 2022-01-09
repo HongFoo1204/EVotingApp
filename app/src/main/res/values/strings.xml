@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E-Voting App</string>
+    <string-array name="selection_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="Header_Question"><b><u>Question</u></b></string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
